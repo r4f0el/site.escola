@@ -2,3 +2,12 @@ body {
     background-color: #11215B;
     color: white;
 }
+.cabecalho.imagem{
+    
+    width: 20%;
+}
+ .cabecalho{
+background-color: #000000;
+color: white;
+display: flex;
+}
