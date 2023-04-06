@@ -1,20 +1,40 @@
 * {
-    margin: 0;
-    padding: 0;
-} 
+  margin: 0;
+  padding: 0;
+}
 .cabecalho {
-background-color: #427e86;
-color: white;
-display: flex;
-justify-content:space-around;
+    background-color: #427e86;
+    color: white;
+    display: flex;
+    justify-content: space-around;
 }
-.cabecalho.imagem{
-      width: 10%;
+.cabecalho-imagem {
+    width: 10%;
 }
- .cabecalho-lista-item{
-display:inline-block;
-margin: 0 16px;
-justify-content: space-around;
-padding: 24px 0;
-font-size: 30px;
- }
+.cabecalho-lista-item {
+    display: inline-block;
+    margin: 0 16px;
+    justify-content: space-around;
+    padding: 24px 0;
+    font-size: 30px;
+}
+.escola-imagem{
+    width: 30%;
+
+}
+.escola {
+    background-image: linear-gradient( rgb(7, 23, 248)lightblue);
+    color:black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+
+}
+.escola-conteudo {
+  width: 45%;
+}
+.escola-titulo {
+ padding: 24px 0;
+   
+}
