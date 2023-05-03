@@ -1,9 +1,9 @@
 * {
-  margin: 0;
-  padding: 0;
+    margin: 0;
+    padding: 0;
 }
 .cabecalho {
-    background-color: #427e86;
+    background-color: #2E2AEC;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -20,21 +20,18 @@
 }
 .escola-imagem{
     width: 30%;
-
 }
-.escola {
-    background-image: linear-gradient( rgb(7, 23, 248)lightblue);
-    color:black;
+.escola{
+    background-image: linear-gradient(#2E2AEC , rgb(52, 50, 75));
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 24px 0;
-
 }
-.escola-conteudo {
-  width: 45%;
+.escola-conteudo{
+    width: 45%;
 }
 .escola-titulo {
- padding: 24px 0;
-   
+    padding: 24px 0;
 }
