@@ -3,7 +3,7 @@
     padding: 0;
 }
 .cabecalho {
-background-color: #2E2AEC;;
+background-color: #2E2AEC;
 color: #f7f7f7;
 display: flex;
 justify-content: space-around;
@@ -22,7 +22,7 @@ font-size: 30px;
     width: 15%;
 }
 .escola {
-    background-image: linear-gradient(#2E2AEC , rgb(52, 50, 75));
+    background-image: linear-gradient(#2E2AEC , rgb(52, 50, 75));;
     color: #181717;
     display: flex;
     justify-content: center;
@@ -58,4 +58,15 @@ body {
 .estudante-todos {
     display: grid;
     grid-template-columns: 20% 20% 20% 20%;
+}
+footer {
+    background-color: #312986;
+    padding: 15px 0;
+    text-align: center;
+}
+.rodape-texto {
+    text-align: center;
+    padding: 24px 0;
+    
+    
 }
